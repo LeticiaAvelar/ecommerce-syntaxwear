@@ -1,11 +1,13 @@
 # SyntaxWear
 
 Um site de e-commerce de tênis e sneakers.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91c121a5-23eb-4e17-bce9-6250176d4530" />
+<img width="1422" height="1078" alt="image" src="https://github.com/user-attachments/assets/00b15b2c-f620-4c56-aa6d-e0fb6c93fd1b" />
 
 ## Sobre o Projeto
 
-O SyntaxWear é um projeto de e-commerce desenvolvido como parte do curso DevQuest do Dev em Dobro. O objetivo do projeto é criar um site de e-commerce de tênis e sneakers, com um design moderno e responsivo.
+O SyntaxWear é um projeto de e-commerce desenvolvido como parte do curso DevQuest do Dev em Dobro. O objetivo do projeto é criar um site de e-commerce de tênis e sneakers, com um design moderno e responsivo para desktop e mobile.
+<img width="428" height="679" alt="image" src="https://github.com/user-attachments/assets/aa591df5-aacd-42cb-a7e1-1efe8b6c6b7a" />
+<img width="952" height="585" alt="image" src="https://github.com/user-attachments/assets/cca682d7-fa48-4d7f-92d6-170660405040" />
 
 ## Tecnologias Utilizadas
 
