@@ -1,6 +1,7 @@
 # SyntaxWear
 
 Um site de e-commerce de tênis e sneakers.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91c121a5-23eb-4e17-bce9-6250176d4530" />
 
 ## Sobre o Projeto
 
