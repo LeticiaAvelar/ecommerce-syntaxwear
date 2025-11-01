@@ -16,7 +16,7 @@ main{
 	}
 }
 
-.btn{
+.btn {
     font-size: 1.25rem;
     width: 161px;
     height: 48px;
@@ -24,7 +24,7 @@ main{
     color: #ffffff;
     font-weight: 400;
     padding: 10px 20px;
-    transition: backgound-color 0.3s, border 0.3s;
+    transition: background-color 0.3s, border 0.3s;
 }
 
 .btn-outline{
@@ -33,9 +33,10 @@ main{
     line-height: 23px;
 }
 
-.btn-filled{
+.btn-filled {
     background-color: #ffffff;
     color: #6329A2;
+    line-height: 25px;
 }
 
 .btn:hover{

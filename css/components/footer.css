@@ -39,6 +39,7 @@
 
 .footer-nav li a{
     color: #ffffff;
+    font-weight: 500;
 }
 
 .footer-nav li a:hover{
@@ -72,6 +73,7 @@
 }
 
 .footer-copy{
+    border-top: 1px solid #ffffff;
     font-size: 1.25rem;
     text-align: center;
     padding: 20px 0;
